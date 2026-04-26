@@ -1,0 +1,20 @@
+# STM32CubeIDE for VS Code
+/can2usb_sniffer_slcan_c562re_cmake/.settings/
+/can2usb_sniffer_slcan_c562re_cmake/.vscode/
+/can2usb_sniffer_slcan_c562re_cmake/arch/
+/can2usb_sniffer_slcan_c562re_cmake/build/
+/can2usb_sniffer_slcan_c562re_cmake/cmake/
+/can2usb_sniffer_slcan_c562re_cmake/generated/
+/can2usb_sniffer_slcan_c562re_cmake/stm32c5xx_dfp/
+/can2usb_sniffer_slcan_c562re_cmake/stm32c5xx_drivers/
+/can2usb_sniffer_slcan_c562re_cmake/user_modifiable/
+/can2usb_sniffer_slcan_c562re_cmake/utilities/
+.clangd
+CMakePresets.JSON
+
+# User files
+/Assets/Tools/
+/Assets/Videos/
+/Assets/Docs/
+/Assets/Libs/
+/Assets/Images/HighRes/
