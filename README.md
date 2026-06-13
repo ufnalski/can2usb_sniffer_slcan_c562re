@@ -20,6 +20,18 @@ Don't worry. Just open the .ioc2 file in STM32CubeMX2 and hit the yellow button 
 * [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor) (Anton Viktorov, latonita)
 * [SLGreen](https://github.com/renardspark/SLGreen) (renardspark)
 
+# Contactless CAN bus probe
+You can make your sniffer totally non-invasive by adding a [contactless probe](https://can-cia.org/fileadmin/cia/documents/proceedings/2006_berenger.pdf) (starting from ca. 100 PLN / 25 USD). I've bought [MCB-CLICK-CAN](https://www.quasarelectronics.pl/en/special-solutions/can-bus-converters/mcb-click-can/) by [Quasar Electronics](https://www.quasarelectronics.pl/en/) and it works perfectly. If it is not available in your region, you may check similar probes that I haven't tested (yet?), e.g.:
+* [ECAN02 New-generation warranty-friendly CAN adapter for contactless access to CAN bus data](https://www.teltonika-gps.com/products/accessories/can-adapters/ecan02) (Teltonika)
+* [Contactless CAN Bus Reader](https://www.csselectronics.com/products/contactless-can-bus-reader-adapter) (CSS Electronics)
+* [CAN-CLICK - contactless reading of logistic data from the CAN bus](https://www.albatross.com.pl/en/CAN_CLICK_contactless_reading_of_logistic_data_from_the_CAN_bus.html) (Albatross System)
+* [CANCrocodile - Contactless CAN Bus, SAE J1939, OBD-II, And SAE J1708 Reader](https://copperhilltech.com/cancrocodile-contactless-can-bus-j1708-reader/) (Copperhill Technologies Corporation)
+* [CANcliQ and DatacliQ: the contactless CAN bus readers](https://squarell.com/products/cancliq/) (Squarell Technology)
+* [Non-contact CAN sensor SP7001, SP7002](https://www.hioki.com/euro-en/products/current-probes/non-contact/id_6741) (Hioki)
+* [Contactless CAN reader](https://www.inventure-automotive.com/en/products/can-reader) (Inventure Automotive)
+
+![Quasar contactless CAN bus probe](/Assets/Images/quasar_contactless_can_bus_probe.jpg)
+
 # Call to action
 Create your own [home laboratory/workshop/garage](http://ufnalski.edu.pl/control_engineering_for_hobbyists/2025_dzien_popularyzacji_matematyki/Dzien_Popularyzacji_Matematyki_2025.pdf)! Get inspired by [ControllersTech](https://www.youtube.com/@ControllersTech), [DroneBot Workshop](https://www.youtube.com/@Dronebotworkshop), [Andreas Spiess](https://www.youtube.com/@AndreasSpiess), [GreatScott!](https://www.youtube.com/@greatscottlab), [bitluni's lab](https://www.youtube.com/@bitluni), [ElectroBOOM](https://www.youtube.com/@ElectroBOOM), [Phil's Lab](https://www.youtube.com/@PhilsLab), [atomic14](https://www.youtube.com/@atomic14), [That Project](https://www.youtube.com/@ThatProject), [Paul McWhorter](https://www.youtube.com/@paulmcwhorter), [Max Imagination](https://www.youtube.com/@MaxImagination), [Nikodem Bartnik](https://www.youtube.com/@nikodembartnik), [Stuff Made Here](https://www.youtube.com/@StuffMadeHere), [Mario's Ideas](https://www.youtube.com/@marios_ideas), [Aaed Musa](https://www.aaedmusa.com/), [Haase Industries](https://www.youtube.com/@h1tec), and many other professional hobbyists sharing their awesome projects and tutorials! Shout-out/kudos to all of them! Promote [README-driven learning](http://ufnalski.edu.pl/proceedings/sene2025/Ufnalski_PE_formatted_SENE_2025.pdf).
 
